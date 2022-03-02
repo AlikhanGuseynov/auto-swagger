@@ -1,0 +1,15 @@
+{
+  "$schema": "/node_modules/ng-openapi-gen/ng-openapi-gen-schema.json",
+  "input": "path_to_SWAGGER_JSON",
+  "output": "src/app/api",
+  "ignoreUnusedModels": false,
+  "module": "GeneratedApiModule",
+  "serviceSuffix": "Service",
+  "modelSuffix": "",
+  "indexFile": true,
+  "skipJsonSuffix": true,
+  "excludeParameters": []
+}
+
+
+
